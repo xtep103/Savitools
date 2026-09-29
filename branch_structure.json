@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/asset-metadata-home-domain-validator",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/asset-metadata-home-domain-validator": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/asset-metadata-home-domain-validator",
+    "origin"
+  ]
+}
